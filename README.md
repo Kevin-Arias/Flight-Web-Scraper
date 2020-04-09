@@ -11,4 +11,5 @@ Now you have set up the web scraper now we can begin running the program.
 1. Download or clone the project and change directory to the file.
 2. Run the following command: python flightscraper.py
 3. Input the flight information (Departing and Arriving Cities and Dates) and let the programming run.
+<img width="574" alt="instructions" src="https://user-images.githubusercontent.com/16792195/78847022-7b736d80-79c2-11ea-9886-6440b59a3f42.png">
 4. Once finished running, it will automatically send you an email with flight information.
