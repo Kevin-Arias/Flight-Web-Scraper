@@ -1,2 +1,2 @@
-# Flight-Web-Scraper
-Web Scraper that searches and compares sites for best offers on flights.
+# Flight Web Scraper
+Developed a web scraper that searches and compares various sites for best flight prices and emails users detailed list of round trip flights. This program sorts round-trip flights based on price, duration, and overall best offer based on all previously describes factors. This web scraper also predicts whether prices will change based on analysis of previous and current prices and will advise users to either buy now because prices are expected to go up or wait later since prices are expected to drop
