@@ -7,6 +7,7 @@ Developed a web scraper that searches and compares various sites for best flight
 3. Input the email address of where you want to send it from and the email address of where you want the email sent to on line 133.
 <br>
 Now you have set up the web scraper now we can begin running the program.
+<br>
 1. Download or clone the project and change directory to the file.
 2. Run the following command: python flightscraper.py
 3. Input the flight information (Departing and Arriving Cities and Dates) and let the programming run.
