@@ -5,7 +5,7 @@ Developed a web scraper that searches and compares various sites for best flight
 1. First you must input your chromedriver path (around line 11)
 2. Input your email (in username variable) and password (in password variable) at around lines 111 and 112 in order to receive emails of flights.
 3. Input the email address of where you want to send it from and the email address of where you want the email sent to on line 133.
-<br>
+
 Now you have set up the web scraper now we can begin running the program.
 <br>
 1. Download or clone the project and change directory to the file.
